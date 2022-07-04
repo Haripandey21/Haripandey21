@@ -17,10 +17,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hari pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hari pandey" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/harrypanday" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="harrypanday" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hari-pandey-76a688216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hari pandey" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19075493/harry-panday" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="harrypanday" height="30" width="40" /></a>
 <a href="https://fb.com/harry.panday.92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="harry.panday.92" height="30" width="40" /></a>
 <a href="https://instagram.com/harry.panday12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harry.panday12" height="30" width="40" /></a>
+<a href="https://instagram.com/harry.panday12" target="blank"><img align="center" src="https://www.logo.wine/a/logo/TikTok/TikTok-Logo.wine.svg" alt="harry.panday12" height="50" width="80" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

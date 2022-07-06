@@ -1,6 +1,10 @@
 
 <img align="right" alt="Coding" width="2000"  height="300" src="https://dm0qx8t0i9gc9.cloudfront.net/thumbnails/video/TOEwt0C/videoblocks-blockchain-crypto-currency-digital-encryption-network-title-animation_buv3zjlwm_thumbnail-1080_15.png">
-</br></br></br><h1 align="center">Hi 👋, I'm Hari Pandey</h1></br>
+<h2 align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com?color=55f89&lines=Hey+there+!!👋;I'm+Hari+Pandey&center=true&size=30" />
+  </a>
+</h2>
 <h3 align="center">A passionate Blockchain Enthusiast from Nepal</h3>
 </br></br><img align="right" alt="Coding" width="420"  height="300" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
@@ -39,12 +43,7 @@
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/1200px-Ethereum-icon-purple.svg.png" width="40" height="40"/> </a>
 <a href="https://docs.soliditylang.org/en/v0.8.15/" target="_blank" rel="noreferrer"> <img src="https://iconape.com/wp-content/png_logo_vector/solidity.png" width="50" height="40"/> </a>
 
-
-
-
 </p>
-
-
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haripandey21&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="haripandey21" /></p>

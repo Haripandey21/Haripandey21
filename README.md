@@ -1,5 +1,5 @@
 
-<img align="right" alt="Coding" width="2000"  height="300" src="https://github.com/Haripandey21/Haripandey21/blob/main/.github/workflows/_Blockchain%20Enthusiast%20.png">
+<img align="right" alt="Coding" width="1000"  height="400" src="https://github.com/Haripandey21/Haripandey21/blob/main/.github/workflows/_Blockchain%20Enthusiast%20.png">
 <h2 align="center">
   <a href="#">
     <img src="https://readme-typing-svg.herokuapp.com?color=55f89&lines=Hey+there+!!👋;I'm+Hari+Pandey&center=true&size=30" />
